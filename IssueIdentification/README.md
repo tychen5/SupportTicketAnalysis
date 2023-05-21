@@ -1,8 +1,4 @@
-IssueCategorization.py
-
-# README.md
-
-## Issue Categorization
+# Issue Categorization
 
 This Python code snippet, named `IssueCategorization.py`, is designed to categorize and group issues based on their textual content. The code utilizes various pre-trained transformer models from the Hugging Face library to extract features from the text and generate embeddings. These embeddings are then used to categorize the issues into different groups.
 
